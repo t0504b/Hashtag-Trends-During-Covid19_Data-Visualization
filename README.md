@@ -5,8 +5,8 @@ As a part of coursework related to the subject 'Data Visualization' in Trinity C
 
 ## Graphs plotted
 
- Map showing cities with most tweets
- Horizontal bars to show most frequent hashtags used
- Heat map showing volume of tweets w.r.t states/cities at particular time
- Bar graph to show number of tweets in US w.r.t time
- Bar graph to show number of tweets in US w.r.t state
+- Map showing cities with most tweets
+- Horizontal bars to show most frequent hashtags used
+- Heat map showing volume of tweets w.r.t states/cities at particular time
+- Bar graph to show number of tweets in US w.r.t time
+- Bar graph to show number of tweets in US w.r.t state
